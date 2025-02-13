@@ -1,16 +1,19 @@
-## Hi there 👋
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Alocem)]()
-<!--
-**Alocem/Alocem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 关于我 
+你好！我是Vennis，一名热衷于技术的开发者。
 
-Here are some ideas to get you started:
+💻 主攻方向：Node、Python、区块链开发、Web全栈、Android。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 目前学习：Web3 和智能合约开发。
+
+## 📊 我的统计
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Alocem&theme=highcontrast&show_icons=true&)]()
+
+## 👨🏻‍💻 技能清单
+<div align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1601afe30af4373da3fd4f86eb0c85c72ec2d4c85ae9c0b8b2b207e38843648b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e"><img src="https://camo.githubusercontent.com/1601afe30af4373da3fd4f86eb0c85c72ec2d4c85ae9c0b8b2b207e38843648b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-090909?style=for-the-badge&amp;logo=python" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6e3713eea38fd370eb38b1f358da52a751db6552fd1920f73fef7f4609ff9877/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/6e3713eea38fd370eb38b1f358da52a751db6552fd1920f73fef7f4609ff9877/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&amp;logo=javascript" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d93f2e5138f2c6541dda1ba864b826aae194c878ff003bdd2e07504c4a83a1b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074"><img src="https://camo.githubusercontent.com/d93f2e5138f2c6541dda1ba864b826aae194c878ff003bdd2e07504c4a83a1b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&amp;logo=typescript" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8919967286b85a4e0575f001ba03e4ca7a1f68e24909ecb1330bfce510fa3d81/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73"><img src="https://camo.githubusercontent.com/8919967286b85a4e0575f001ba03e4ca7a1f68e24909ecb1330bfce510fa3d81/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73" alt="Node.js" data-canonical-src="https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&amp;logo=node.js" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9c6a5134e505aac3728223909fcdec836cd11540549445d524020857d9c6383d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572"><img src="https://camo.githubusercontent.com/9c6a5134e505aac3728223909fcdec836cd11540549445d524020857d9c6383d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572" alt="Docker" data-canonical-src="https://img.shields.io/badge/-Docker-090909?style=for-the-badge&amp;logo=docker" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3b8bc71c7728634bbbba19595b98a5e99b9b30cf977fbaf4525e24ac26f5b246/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d576562332d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d657468657265756d"><img src="https://camo.githubusercontent.com/3b8bc71c7728634bbbba19595b98a5e99b9b30cf977fbaf4525e24ac26f5b246/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d576562332d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d657468657265756d" alt="Web3" data-canonical-src="https://img.shields.io/badge/-Web3-090909?style=for-the-badge&amp;logo=ethereum" style="max-width: 100%;"></a>
+</div>
